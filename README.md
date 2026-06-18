@@ -12,12 +12,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0075-sort-colors/) | Medium |
 | [0135-candy](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0135-candy/) | Hard |
 | [0169-majority-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0169-majority-element/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0169-majority-element/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0135-candy/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
