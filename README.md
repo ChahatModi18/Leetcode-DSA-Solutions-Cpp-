@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0075-sort-colors/) | Medium |
 | [0135-candy](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0135-candy/) | Hard |
 | [0169-majority-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0169-majority-element/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -73,9 +74,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
