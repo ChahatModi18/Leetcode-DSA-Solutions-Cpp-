@@ -11,7 +11,7 @@ public:
         while (low < high) {
 
             // Find middle index safely
-            int mid = (low + high) >> 1;
+            int mid = low + (high - low) / 2; // Shift all bits of x one position to the right.
 
             // Check if we are on a descending slope
             // Peak lies at mid or on the left side
