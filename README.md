@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0075-sort-colors/) | Medium |
 | [0135-candy](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0135-candy/) | Hard |
+| [0162-find-peak-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0169-majority-element/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0875-koko-eating-bananas/) | Medium |
