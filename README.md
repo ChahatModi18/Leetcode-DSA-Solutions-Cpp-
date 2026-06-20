@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0169-majority-element/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -108,9 +110,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0125-valid-palindrome/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
