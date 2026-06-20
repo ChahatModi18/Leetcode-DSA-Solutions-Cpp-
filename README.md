@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
