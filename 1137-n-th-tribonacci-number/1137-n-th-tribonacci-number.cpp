@@ -1,6 +1,7 @@
 class Solution {
 public:
     int tribonacci(int n) {
+       //without the conditional statements , accessing dp[2] when n = 0 or n = 1 will go out of bounds.
          if (n == 0) return 0;
         if (n == 1 || n == 2) return 1;
 
