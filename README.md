@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0070-climbing-stairs/) | Easy |
+| [0292-nim-game](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0292-nim-game/) | Easy |
 | [0509-fibonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Matrix
@@ -142,4 +143,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
