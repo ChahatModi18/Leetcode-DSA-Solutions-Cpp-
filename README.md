@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3674-minimum-operations-to-equalize-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,8 +148,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0292-nim-game/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0292-nim-game/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 <!---LeetCode Topics End-->
