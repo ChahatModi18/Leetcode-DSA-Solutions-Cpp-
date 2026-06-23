@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0509-fibonacci-number/) | Easy |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0125-valid-palindrome/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -165,5 +167,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
