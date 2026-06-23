@@ -1,41 +1,44 @@
 class Solution {
 public:
 
-    // Recursive function to generate valid parentheses
-    void generate(vector<string> &ans, string str, int open, int close, int n) {
+    // Stores all valid parenthesis combinations
+    vector<string> result;
+
+    // Recursive backtracking function
+    void back(string& curr, int open, int close, int n) {
 
         // Base Case:
-        // If we have used all n opening and n closing brackets,
-        // then the current string is a valid answer.
-        if (n == open && n == close) {
-            ans.push_back(str);
+        // When the string length becomes 2*n,
+        // we have used all parentheses.
+        if (curr.length() == 2 * n) {
+            result.push_back(curr);   // Store the valid combination
             return;
         }
 
-        // We can add a closing bracket ')' only if
-        // the number of opening brackets used is greater
-        // than the number of closing brackets used.
-        // This ensures the sequence remains valid.
-        if (open > close)
-            generate(ans, str + ")", open, close + 1, n);
+        // Choice 1: Add an opening bracket '('
+        // We can add it only if we have not used n opening brackets yet.
+        if (open < n) {
+            curr.push_back('(');          // Choose
+            back(curr, open + 1, close, n); // Explore
+            curr.pop_back();             // Undo choice (Backtrack)
+        }
 
-        // We can add an opening bracket '('
-        // as long as we have not used all n opening brackets.
-        if (open < n)
-            generate(ans, str + "(", open + 1, close, n);
+        // Choice 2: Add a closing bracket ')'
+        // We can add it only when there are more opening
+        // brackets than closing brackets.
+        if (close < open) {
+            curr.push_back(')');         // Choose
+            back(curr, open, close + 1, n); // Explore
+            curr.pop_back();            // Undo choice (Backtrack)
+        }
     }
 
     vector<string> generateParenthesis(int n) {
 
-        // Stores all valid parenthesis combinations
-        vector<string> ans;
+        string curr = "";   // Current parenthesis string being built
+        // Start recursion with 0 open and 0 close brackets used
+        back(curr, 0, 0, n);
 
-        // Start recursion with:
-        // empty string
-        // 0 opening brackets used
-        // 0 closing brackets used
-        generate(ans, "", 0, 0, n);
-
-        return ans;
+        return result;
     }
 };
