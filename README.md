@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0075-sort-colors/) | Medium |
@@ -161,4 +162,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
