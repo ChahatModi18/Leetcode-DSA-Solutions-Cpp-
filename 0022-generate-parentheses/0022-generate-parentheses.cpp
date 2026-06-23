@@ -21,6 +21,7 @@ public:
             curr.push_back('(');          // Choose
             back(curr, open + 1, close, n); // Explore
             curr.pop_back();             // Undo choice (Backtrack)
+            //using pop to remove last char in string using STL
         }
 
         // Choice 2: Add a closing bracket ')'
