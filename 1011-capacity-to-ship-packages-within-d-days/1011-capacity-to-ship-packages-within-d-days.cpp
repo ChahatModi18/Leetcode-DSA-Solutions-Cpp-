@@ -1,23 +1,21 @@
 class Solution {
 public:
     // Function to calculate how many days are needed, if ship capacity is "capacity"
-     int returnDays(vector<int>& weights, int capacity) {
+     int returnDays(vector<int>& weights, int capacity) {// random capacity
 
-        int days = 1;      // start with Day 1
-        int load = 0;      // current ship load
+        int days = 1;      // start with Day 1 (minimum days) (within 5 days) 
+        int currentload = 0;      // current ship load (initially ship is empty)
 
         for(int weight : weights) {
 
             // If adding current package exceeds capacity,
             // send current ship and start a new day
-            if(load + weight > capacity) {
+            if(currentload + weight > capacity) {
                 days++;
-                load = weight;
+                currentload=0;
+                }
+                currentload += weight;
             }
-            else {
-                load += weight;
-            }
-        }
 
         return days;
     }
