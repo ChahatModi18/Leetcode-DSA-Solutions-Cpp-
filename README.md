@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0278-first-bad-version](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0278-first-bad-version/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -181,4 +182,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0051-n-queens/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
