@@ -6,8 +6,10 @@ public:
         int days = 1;      // start with Day 1 (minimum days) (within 5 days) 
         int currentload = 0;      // current ship load (initially ship is empty)
 
-        for(int weight : weights) {
-
+        for(int weight : weights) 
+        //Go through every element of the vector weights one by one and store it in the variable weight
+        // current package weight is stored in 'weight'
+        {
             // If adding current package exceeds capacity,
             // send current ship and start a new day
             if(currentload + weight > capacity) {
