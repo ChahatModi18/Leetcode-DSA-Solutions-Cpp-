@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0075-sort-colors/) | Medium |
+| [0086-partition-list](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
