@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0704-binary-search/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0509-fibonacci-number/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0283-move-zeroes/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -206,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0845-longest-mountain-in-array/) | Medium |
 <!---LeetCode Topics End-->
