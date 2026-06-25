@@ -1,4 +1,4 @@
-class Solution {
+class Solution { //2 pointers approach
 public:
     int longestMountain(vector<int>& arr) {
 
@@ -8,35 +8,28 @@ public:
             return 0;
         }
 
-        vector<int> up(n, 0);
-        vector<int> down(n, 0);
+        int maximumlen = 0;
 
-        // Prefix pass
-        for (int i = 1; i < n; i++) {
-            if (arr[i] > arr[i - 1]) {
-                up[i] = up[i - 1] + 1;
-            }
-        }
-
-        // Suffix pass
-        for (int i = n - 2; i >= 0; i--) {
-            if (arr[i] > arr[i + 1]) {
-                down[i] = down[i + 1] + 1;
-            }
-        }
-
-        int ans = 0;
-
-        // Check every possible peak
         for (int i = 1; i < n - 1; i++) {
 
-            if (up[i] > 0 && down[i] > 0) {
+            // Peak found
+            if (arr[i] > arr[i - 1] && arr[i] > arr[i + 1]) {
 
-                ans = max(ans,
-                          up[i] + down[i] + 1);
+                int left = i - 1;
+                int right = i + 1;
+
+                while (left > 0 && arr[left] > arr[left - 1]) {
+                    left--;
+                }
+                while (right < n - 1 && arr[right] > arr[right + 1]) {
+                    right++;
+                }
+                maximumlen = max(maximumlen, right - left + 1);
+
+                i = right; //skips processed elements
             }
         }
 
-        return ans;
+        return maximumlen;
     }
 };
