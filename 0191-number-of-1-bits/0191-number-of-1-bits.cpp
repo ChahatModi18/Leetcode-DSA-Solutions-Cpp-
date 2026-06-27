@@ -1,4 +1,4 @@
-class Solution {
+class Solution { // BIT MANIPULATION
 public:
     int hammingWeight(uint32_t n) {
         int count = 0;
