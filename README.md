@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0070-climbing-stairs/) | Easy |
+| [0231-power-of-two](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0292-nim-game/) | Easy |
 | [0509-fibonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0231-power-of-two/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
