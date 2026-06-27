@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0191-number-of-1-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0342-power-of-four/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
