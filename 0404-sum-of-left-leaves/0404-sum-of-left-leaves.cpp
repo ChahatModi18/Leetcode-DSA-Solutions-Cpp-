@@ -15,8 +15,21 @@ int ans=0;
 void sum(TreeNode* root){
         if(root == NULL) 
         return ;
+        /*int ansL, ansR =0 ;
+        if(root->left != Null && 
+        root->left->left == NULL &&    /// BOTH CHILD OF LEFT ARE NULL 
+        root->left->right == NULL)
+        ansL += root->left->val;
 
-        if(root->left){
+        ansL += sumOfLeftLeaves(root->left);
+        ansR += sumOfLeftLeaves(root->right);
+        return ansL+ansR;
+        }
+    };
+
+    */
+
+     if(root->left){ //memory is always in a lil greater amount during Recursion 
             if(root->left->left == NULL && root->left->right == NULL)
             ans += root->left->val;
         }
