@@ -1,12 +1,7 @@
-class Solution { //C++ STL method
+class Solution {  //Reminder-divident method via Recursion
 public:
     bool isPowerOfTwo(int n) {
-        if(n<0)return false;
-        
-        int bits=__builtin_popcount(n);
-        
-        if(bits==1)
-            return true;
-        return false;
+        if(n==0) return false;
+        return ((n==1) || (n%2==0 && isPowerOfTwo(n/2)));
     }
 };
