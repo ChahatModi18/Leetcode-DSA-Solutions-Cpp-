@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0135-candy/) | Hard |
 | [0162-find-peak-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0164-maximum-gap/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0509-fibonacci-number/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1137-n-th-tribonacci-number/) | Easy |
