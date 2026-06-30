@@ -9,30 +9,14 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution { //BFS
+class Solution { //DFS
 public:
     int maxDepth(TreeNode* root) {
         if (root == nullptr) return 0;
 
-        queue<TreeNode*> q;
-        q.push(root);
+        int left = maxDepth(root->left);
+        int right = maxDepth(root->right);
 
-        int depth = 0;
-
-        while (!q.empty()) {
-            int size = q.size();
-
-            for (int i = 0; i < size; i++) {
-                TreeNode* curr = q.front();
-                q.pop();
-
-                if (curr->left != nullptr) q.push(curr->left);
-                if (curr->right != nullptr) q.push(curr->right);
-            }
-
-            depth++;
-        }
-
-        return depth;
+        return 1 + max(left, right);
     }
 };
