@@ -1,17 +1,19 @@
-class Solution { //Kadane's algorithm
+class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int buy=prices[0];
-        int profit=0;
-        for(int i=1;i<prices.size();i++){
-            if(prices[i]<buy){
-                buy = prices[i];
-            }
-            else if(prices[i]-buy>profit){
-                profit=prices[i]-buy;
-            }
-        }
-        return profit;
+        int maxCur = 0;    // Maximum profit ending at current day
+        int maxSoFar = 0;  // Maximum profit found so far
 
+        for (int i = 1; i < prices.size(); i++) {
+
+            // Add today's price difference to current profit.
+            // If it becomes negative, reset to 0 (start a new subarray).
+            maxCur = max(0, maxCur + (prices[i] - prices[i - 1]));
+
+            // Update the maximum profit obtained so far.
+            maxSoFar = max(maxSoFar, maxCur);
+        }
+
+        return maxSoFar;
     }
 };
