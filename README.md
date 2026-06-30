@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0342-power-of-four/) | Easy |
+| [0412-fizz-buzz](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0125-valid-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0412-fizz-buzz/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0200-number-of-islands/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
