@@ -5,24 +5,14 @@ public:
         int rows = matrix.size();
         int cols = matrix[0].size();
 
-        int low = 0;
-        int high = rows * cols - 1;
+        // Traverse every element
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
+                if (matrix[i][j] == target) {
+                    return true;
+                }
 
-            // Convert 1D index to 2D indices
-            int r = mid / cols;
-            int c = mid % cols;
-
-            if (matrix[r][c] == target) {
-                return true;
-            }
-            else if (matrix[r][c] < target) {
-                low = mid + 1;
-            }
-            else {
-                high = mid - 1;
             }
         }
         return false;
