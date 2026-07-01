@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0412-fizz-buzz/) | Easy |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0412-fizz-buzz/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -275,4 +277,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0164-maximum-gap/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
