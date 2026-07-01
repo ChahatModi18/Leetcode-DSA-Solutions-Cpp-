@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0322-coin-change](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0322-coin-change/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0322-coin-change](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0509-fibonacci-number/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Union-Find
