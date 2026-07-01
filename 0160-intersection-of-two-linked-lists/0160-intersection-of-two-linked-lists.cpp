@@ -6,19 +6,19 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-class Solution {  //BRUTE FORCE APPROACH
+class Solution { //hashmap 
 public:
 	ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-		ListNode *temp;
+		unordered_map<ListNode*, int> m;
 		while(headA != NULL){
-			temp = headB;
-			while(temp != NULL){
-				if(headA == temp){
-					return headA;
-				}
-				temp = temp -> next;
-			}
+			m[headA]++;
 			headA = headA -> next;
+		}
+		while(headB != NULL){
+			if(m[headB] > 0){
+				return headB;
+			}
+			headB = headB -> next;
 		}
 		return NULL;
 	}
