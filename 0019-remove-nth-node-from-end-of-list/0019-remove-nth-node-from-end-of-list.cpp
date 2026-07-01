@@ -33,10 +33,10 @@ Since the last node of every linked list already has its next pointer set to NUL
 the loop automatically stops there.*/
 
         while(ptr->next){ //move both pointers together  until ptr reaches the last node 
-            ptr=ptr->next ;   //moves one step
+            ptr=ptr->next ;   //fast pointer moves one step
             temp=temp->next;  //slow pointer moves one step 
-        }//skip the node to be deleted 
-
+        }
+        //skip the node to be deleted 
          temp->next=temp->next->next;
 
          //return updated head 
