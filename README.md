@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3024-type-of-triangle](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/3024-type-of-triangle/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3024-type-of-triangle](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/3024-type-of-triangle/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0169-majority-element/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3024-type-of-triangle](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/3024-type-of-triangle/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
