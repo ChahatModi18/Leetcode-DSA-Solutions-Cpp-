@@ -1,11 +1,12 @@
 class Solution {
 public:
-    int countDigits(int num) {
-        int n = num;
+    int countDigits(int num) { //num stores the original number
+        int n = num; //extracts digits one by one 
         int ans = 0;
 
         while (n) {
-            ans += num % (n % 10) == 0;
+            if (num % (n % 10) == 0)
+               ans++;   
             n /= 10;
         }
 
