@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0086-partition-list](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0125-valid-palindrome/) | Easy |
