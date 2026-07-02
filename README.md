@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0258-add-digits/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0322-coin-change](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0322-coin-change/) | Medium |
@@ -308,4 +310,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0258-add-digits/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
