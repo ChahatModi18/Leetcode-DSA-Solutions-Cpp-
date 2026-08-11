@@ -314,4 +314,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0062-unique-paths/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
