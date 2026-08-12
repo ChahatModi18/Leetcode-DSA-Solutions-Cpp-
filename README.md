@@ -329,4 +329,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0607-sales-person](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0607-sales-person/) | Easy |
 <!---LeetCode Topics End-->
