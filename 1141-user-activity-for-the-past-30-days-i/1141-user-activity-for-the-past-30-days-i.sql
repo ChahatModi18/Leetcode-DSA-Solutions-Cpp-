@@ -1,5 +1,6 @@
 # Write your MySQL query statement below
-#ind the number of unique active users for each day during the 30-day period ending on 2019-07-27.
+# Find the number of unique active users for each day during the 30-day period ending on 2019-07-27.
+
 select activity_date as day,
 count(distinct user_id) as active_users 
 from activity
@@ -12,6 +13,7 @@ group by activity_date;
 # MEANS
 # activity_date must be greater than 30 days before July 27.
 
+
 /*
 SELECT activity_date AS day,
        COUNT(DISTINCT user_id) AS active_users
@@ -22,6 +24,7 @@ GROUP BY activity_date;
 */
 
 
+
 /*
 SELECT
     activity_date AS day,
@@ -30,6 +33,8 @@ FROM Activity
 WHERE activity_date BETWEEN DATE '2019-06-28' AND DATE '2019-07-27'
 GROUP BY activity_date;
 */
+
+
 
 /*
 SELECT
