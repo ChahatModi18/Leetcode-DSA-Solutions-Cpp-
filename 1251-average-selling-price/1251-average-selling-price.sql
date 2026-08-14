@@ -8,6 +8,32 @@ AND u.purchase_date BETWEEN p.start_date AND p.end_date
 group by p.product_id;
 
 
+#COALESCE(value, 0)
+#means:
+#If value is NULL, return 0.
+#if average exists → give average
+#if no matching sales → give 0
+/*
+You initially had:
+JOIN
+which passed most tests.
+But the edge cases contain products with no sales, so:
+INNER JOIN ❌
+LEFT JOIN  ✅
+And then:
+LEFT JOIN
+   ↓
+COALESCE(..., 0)
+handles the products with no sales.
+*/
+
+#Why LEFT JOIN?
+#Your current:
+#JOIN UnitsSold u
+#is an INNER JOIN.
+#It says:
+#Only keep products that have a matching sale.
+#But the question wants every product from Prices.
 
 
 
