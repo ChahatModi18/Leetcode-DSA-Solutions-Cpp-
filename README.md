@@ -344,4 +344,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1280-students-and-examinations](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1407-top-travellers/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 <!---LeetCode Topics End-->
