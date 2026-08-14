@@ -339,4 +339,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1084-sales-analysis-iii](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1148-article-views-i/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1211-queries-quality-and-percentage/) | Easy |
 <!---LeetCode Topics End-->
