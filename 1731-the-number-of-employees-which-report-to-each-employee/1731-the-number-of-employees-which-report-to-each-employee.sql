@@ -7,3 +7,10 @@ join employees e2
 on e1.reports_to=e2.employee_id
 group by e2.employee_id, e2.name
 order by employee_id ;
+
+
+
+# The question asks us to output:
+#so , in select  statement e2.column name 
+# the employee who has people reporting to them
+# That is the manager.
