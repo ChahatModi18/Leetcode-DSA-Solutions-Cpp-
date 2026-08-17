@@ -355,4 +355,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-invalid-tweets](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 <!---LeetCode Topics End-->
