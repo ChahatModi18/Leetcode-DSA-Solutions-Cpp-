@@ -8,6 +8,8 @@ he words "for each teacher" tell you what should define your groups.
 So:
 GROUP BY teacher_id
 creates one group for each teacher.
+ why not Group By subject_id : 
+ The problem is that a single subject_id group can contain multiple teachers.
 */
 
 /*
