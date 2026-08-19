@@ -8,7 +8,35 @@ from activity
 group by player_id);
 
 
-/*
+/*approach 3 
+WITH FirstLogin AS (
+    SELECT
+        player_id,
+        MIN(event_date) AS first_login
+    FROM Activity
+    GROUP BY player_id
+),
+ConsecutiveLogin AS (
+    SELECT
+        a.player_id
+    FROM Activity a
+    JOIN FirstLogin fl
+    ON a.player_id = fl.player_id
+    AND a.event_date = DATE_ADD(fl.first_login, INTERVAL 1 DAY)
+)
+SELECT
+    ROUND(
+        COUNT(DISTINCT cl.player_id) * 1.0 / COUNT(DISTINCT fl.player_id),
+        2
+    ) AS fraction
+FROM FirstLogin fl
+LEFT JOIN ConsecutiveLogin cl
+ON fl.player_id = cl.player_id;
+*/
+
+
+
+/* approach 1 
 1) We want to calculate the fraction of players who logged in again on the day after their first login. To do this, we need to count two things: the number of players who logged in on consecutive days and the total number of players.
 
 2) To count the number of players who logged in on consecutive days, we need to find the first login date for each player and check if there is a login on the day after their first login.
@@ -22,8 +50,7 @@ group by player_id);
 6) Finally, we divide the numerator by the denominator and round the result to 2 decimal places using the ROUND function.
 */
 
-/*
-approach 2 :
+/*approach 2 :
 SELECT
     ROUND(
         COUNT(DISTINCT a1.player_id) /
