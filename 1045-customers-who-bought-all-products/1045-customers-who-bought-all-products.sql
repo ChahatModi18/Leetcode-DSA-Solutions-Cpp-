@@ -6,18 +6,25 @@ HAVING COUNT(DISTINCT c.product_key) =
        (SELECT COUNT(*) FROM Product);
 
 
-       /*
-       Why LEFT JOIN isn't even necessary
-
+/*
+Why LEFT JOIN isn't even necessary
 Notice that your query joins Customer to Product using:
-
 ON c.product_key = p.product_key
-
 But we don't actually need anything from Product except the total number of products.
-
 The subquery already gives us that:
-
 (SELECT COUNT(*) FROM Product)
-
 So the main query can simply work with Customer.
+
+
+# Write your MySQL query statement below
+WITH c AS (
+    SELECT COUNT(DISTINCT product_key) AS n
+    FROM Product
+)
+SELECT customer_id
+FROM Customer
+CROSS JOIN c 
+GROUP BY Customer.customer_id
+HAVING COUNT(DISTINCT product_key) = MAX(c.n)
+;
 */
