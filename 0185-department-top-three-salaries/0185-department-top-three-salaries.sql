@@ -12,10 +12,32 @@ WITH new_table AS (
     LEFT JOIN Department d
         ON e.departmentId = d.id
 )
-
 SELECT
     Department,
     Employee,
     Salary
 FROM new_table
 WHERE Ranking <= 3;
+
+/*
+PARTITION BY creates separate groups/windows for the calculation, 
+but unlike 
+GROUP BY, it does NOT collapse the rows.
+
+DENSE_RANK() OVER (
+    PARTITION BY d.name
+    ORDER BY e.salary DESC
+)
+
+There are two instructions here:
+PARTITION BY d.name
+        ↓
+Separate employees department-wise
+
+ORDER BY e.salary DESC
+        ↓
+Rank employees from highest salary to lowest
+
+So we're saying:
+Rank employees separately inside each department.
+*/
