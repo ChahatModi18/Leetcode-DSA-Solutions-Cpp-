@@ -29,4 +29,50 @@ AVG()
     ↓
 ROUND(..., 2)
 
-*/
+
+QUERY FUNCTIONING LOGICAL FLOW :
+                 DELIVERY TABLE
+                       │
+                       ▼
+          ┌────────────────────────┐
+          │  GROUP BY customer_id  │
+          │  MIN(order_date)       │
+          └────────────┬───────────┘
+                       │
+                       ▼
+              FIRST ORDER
+              OF EACH CUSTOMER
+                       │
+                       ▼
+          ┌────────────────────────┐
+          │ WHERE (customer_id,    │
+          │       order_date) IN   │
+          │       first orders     │
+          └────────────┬───────────┘
+                       │
+                       ▼
+             ONLY FIRST ORDERS
+                       │
+                       ▼
+          ┌────────────────────────┐
+          │ order_date =           │
+          │ customer_pref_delivery│
+          │ _date                  │
+          └────────────┬───────────┘
+                       │
+                       ▼
+              TRUE = 1 / FALSE = 0
+                       │
+                       ▼
+                    AVG()
+                       │
+                       ▼
+                  × 100
+                       │
+                       ▼
+                 ROUND(..., 2)
+                       │
+                       ▼
+              immediate_percentage
+
+*/ 
