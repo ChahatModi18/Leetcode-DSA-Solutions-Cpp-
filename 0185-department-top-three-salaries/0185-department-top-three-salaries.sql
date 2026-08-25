@@ -40,4 +40,15 @@ Rank employees from highest salary to lowest
 
 So we're saying:
 Rank employees separately inside each department.
+
+             Employees
+                 │
+       ┌─────────┴─────────┐
+       ↓                   ↓
+      IT                   HR
+       │                   │
+ Joe  90000            Amy  95000
+ Jim  85000            Bob  90000
+ Sam  85000            Tim  80000
+ Max  70000
 */
