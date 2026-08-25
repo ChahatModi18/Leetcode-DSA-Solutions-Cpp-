@@ -15,4 +15,16 @@ SELECT
 FROM (
     SELECT DISTINCT product_id
     FROM products 
-) AS p
+) AS p;
+
+/*
+change_date <= '2019-08-16'
+This means:
+"Give me changes that had already happened by August 16."
+
+Then:
+ORDER BY change_date DESC
+LIMIT 1
+means:
+"Among those changes, give me the latest one."
+*/
