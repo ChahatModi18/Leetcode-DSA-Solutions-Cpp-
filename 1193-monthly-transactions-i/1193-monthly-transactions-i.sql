@@ -17,5 +17,13 @@ Use SUM(state = 'approved') to count approved transactions, leveraging the fact 
 
 Sum Approved Amounts:
 Use SUM((state = 'approved') * amount) to sum the transaction amounts for approved transactions, ensuring only approved amounts are summed.
+
+******
+YEAR()       → year
+MONTH()      → month number
+MONTHNAME()  → month name
+DATE_FORMAT() → customized date format
+
+******
 */
 
