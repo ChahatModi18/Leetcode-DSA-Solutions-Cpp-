@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1148-article-views-i/) | Easy |
 | [1158-market-analysis-i](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1158-market-analysis-i/) | Medium |
+| [1164-product-price-at-a-given-date](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/1280-students-and-examinations/) | Easy |
