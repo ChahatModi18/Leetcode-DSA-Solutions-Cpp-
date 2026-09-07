@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0053-maximum-subarray/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
