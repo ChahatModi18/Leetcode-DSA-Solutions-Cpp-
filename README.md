@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0035-search-insert-position/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/ChahatModi18/Leetcode-DSA-Solutions-C-/tree/main/0125-valid-palindrome/) | Easy |
