@@ -19,7 +19,6 @@ GROUP BY p.project_id
 LEFT JOIN means:
 Keep every row from Project, even if there is no matching Employee.
 
-
 INNER JOIN says:
 Keep only projects whose employee has a matching row in Employee.
 */
