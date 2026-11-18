@@ -12,6 +12,11 @@ group by activity_date;
 # where date_sub('2019-07-27',interval 30 day) < activity_date 
 # MEANS
 # activity_date must be greater than 30 days before July 27.
+/*
+What if we use only DATE_SUB()?
+WHERE DATE_SUB('2019-07-27', INTERVAL 30 DAY)
+This is not the intended filtering condition. You're calculating a date, but you're not comparing it with activity_date.
+*/
 
 
 /*
